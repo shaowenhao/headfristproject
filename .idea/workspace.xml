@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1033d2-c1eb-4b83-94b3-b7a55f73dbc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="headfristproject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\devtool\maven_localrepository" />
+        <option name="mavenHome" value="D:/devtool/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\devtool\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTcSZitolG7z1MG3zrMpjmf6WE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/datastructure_algorithm/queue" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter6.game.v2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice.code.for2" />
+      <recent name="leetcode.array" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\headfristproject\src\test\java\datastructure_algorithm\queue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringGetCounts">
+    <configuration name="StringGetCounts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.string.demo.StringGetCounts" />
+      <module name="headfristproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.string.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.string.demo.StringReverse" />
+      <module name="headfristproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.string.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTransfer.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="headfristproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.string.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.string.demo" />
+      <option name="MAIN_CLASS_NAME" value="advanced.string.demo.StringTransfer" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrimTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="headfristproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.string.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.string.demo" />
+      <option name="MAIN_CLASS_NAME" value="advanced.string.demo.TrimTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrimTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="headfristproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.string.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advanced.string.demo" />
+      <option name="MAIN_CLASS_NAME" value="advanced.string.demo.TrimTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringGetCounts" />
+        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="JUnit.TrimTest.test2" />
+        <item itemvalue="JUnit.TrimTest.test" />
+        <item itemvalue="JUnit.StringTransfer.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1033d2-c1eb-4b83-94b3-b7a55f73dbc3" name="Default Changelist" comment="" />
+      <created>1594349023368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594349023368</updated>
+      <workItem from="1594349029038" duration="23135000" />
+      <workItem from="1594519129343" duration="22881000" />
+      <workItem from="1594620544996" duration="56000" />
+      <workItem from="1594783189356" duration="8073000" />
+      <workItem from="1595403325857" duration="9000" />
+      <workItem from="1595403996491" duration="23225000" />
+      <workItem from="1595637348006" duration="616000" />
+      <workItem from="1596174393826" duration="22524000" />
+      <workItem from="1596437957600" duration="166468000" />
+      <workItem from="1597461869911" duration="9863000" />
+      <workItem from="1597759809636" duration="15654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="0" key="#Project_Structure" timestamp="1596611026918">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="626" y="0" key="#Project_Structure/0.0.1440.960@0.0.1440.960" timestamp="1596611026918" />
+    <state x="596" y="186" key="#Templates" timestamp="1596787872303">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="596" y="186" key="#Templates/0.0.1440.960@0.0.1440.960" timestamp="1596787872303" />
+    <state x="811" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1597468140048">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="1052" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1594561364966" />
+    <state x="811" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1440.960@0.0.1440.960" timestamp="1597468140048" />
+    <state x="421" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597759844574">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="421" y="503" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.960@0.0.1440.960" timestamp="1597759844574" />
+    <state x="713" y="359" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596180080984">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="713" y="359" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.960@0.0.1440.960" timestamp="1596180080984" />
+    <state x="610" y="207" key="FileChooserDialogImpl" timestamp="1594349107774">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="610" y="207" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1594349107774" />
+    <state x="561" y="376" key="GrepConsoleSound" timestamp="1596518711636">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="561" y="360" key="GrepConsoleSound/0.0.1440.920@0.0.1440.920" timestamp="1594526121642" />
+    <state x="561" y="376" key="GrepConsoleSound/0.0.1440.960@0.0.1440.960" timestamp="1596518711636" />
+    <state width="1234" height="260" key="GridCell.Tab.0.bottom" timestamp="1597828555034">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1594891861157" />
+    <state width="1234" height="260" key="GridCell.Tab.0.bottom/0.0.1440.960@0.0.1440.960" timestamp="1597828555034" />
+    <state width="1234" height="260" key="GridCell.Tab.0.center" timestamp="1597828555034">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1594891861156" />
+    <state width="1234" height="260" key="GridCell.Tab.0.center/0.0.1440.960@0.0.1440.960" timestamp="1597828555034" />
+    <state width="1234" height="260" key="GridCell.Tab.0.left" timestamp="1597828555033">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1594891861156" />
+    <state width="1234" height="260" key="GridCell.Tab.0.left/0.0.1440.960@0.0.1440.960" timestamp="1597828555033" />
+    <state width="1234" height="260" key="GridCell.Tab.0.right" timestamp="1597828555034">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1594891861156" />
+    <state width="1234" height="260" key="GridCell.Tab.0.right/0.0.1440.960@0.0.1440.960" timestamp="1597828555034" />
+    <state width="1234" height="343" key="GridCell.Tab.1.bottom" timestamp="1597828555028">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1234" height="343" key="GridCell.Tab.1.bottom/0.0.1440.960@0.0.1440.960" timestamp="1597828555028" />
+    <state width="1234" height="343" key="GridCell.Tab.1.center" timestamp="1597828555028">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1234" height="343" key="GridCell.Tab.1.center/0.0.1440.960@0.0.1440.960" timestamp="1597828555028" />
+    <state width="1234" height="343" key="GridCell.Tab.1.left" timestamp="1597828555027">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1234" height="343" key="GridCell.Tab.1.left/0.0.1440.960@0.0.1440.960" timestamp="1597828555027" />
+    <state width="1234" height="343" key="GridCell.Tab.1.right" timestamp="1597828555028">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state width="1234" height="343" key="GridCell.Tab.1.right/0.0.1440.960@0.0.1440.960" timestamp="1597828555028" />
+    <state x="387" y="122" width="727" height="763" key="NewModule_or_Project.wizard" timestamp="1597381800224">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="387" y="122" width="727" height="763" key="NewModule_or_Project.wizard/0.0.1440.960@0.0.1440.960" timestamp="1597381800224" />
+    <state x="156" y="215" key="SettingsEditor" timestamp="1597224336222">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="156" y="206" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1594519678814" />
+    <state x="156" y="215" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1597224336222" />
+    <state x="653" y="229" width="561" height="540" key="StructurePopup" timestamp="1597462856592">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="653" y="229" width="561" height="540" key="StructurePopup/0.0.1440.960@0.0.1440.960" timestamp="1597462856592" />
+    <state x="503" y="167" width="794" height="632" key="find.popup" timestamp="1596598058362">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="503" y="167" width="794" height="632" key="find.popup/0.0.1440.960@0.0.1440.960" timestamp="1596598058362" />
+    <state x="487" y="309" width="672" height="708" key="search.everywhere.popup" timestamp="1597795664660">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="527" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1594609815509" />
+    <state x="487" y="309" width="672" height="708" key="search.everywhere.popup/0.0.1440.960@0.0.1440.960" timestamp="1597795664660" />
+  </component>
+</project>
