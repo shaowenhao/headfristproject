@@ -69,4 +69,10 @@ public class CustomerList {
 
         return customers[index];
     }
+
+    public void test(){
+        while(true){
+            System.out.println("hello");
+        }
+    }
 }
